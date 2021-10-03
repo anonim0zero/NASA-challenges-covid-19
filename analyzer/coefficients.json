@@ -1,0 +1,9 @@
+{
+	"human_on_km2":0.21,
+	"cases_human_on_km2":0.36,
+	"chance":0.34,
+	"temp":0.19,
+	"wind":0.19,
+	"mask": 0.26,
+	"vaccine": 0.48
+}
